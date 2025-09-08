@@ -1,0 +1,3 @@
+test@example.com|Test Subject|This is a test message
+user@company.com|Meeting Request|Can we schedule a meeting for tomorrow?
+support@service.com|Technical Issue|I'm having trouble with the system
